@@ -8,8 +8,8 @@
 [Objective](#Objective)\
 [Business Problem](#Business-Problem)\
 [Scope](#Scope)\
-[Data Overview](#Data-Overview)\
 [Data Acquisition & Preparation](#Data-Acquisition-&-Preparation)\
+[Data Overview](#Data-Overview)\
 [Recommendations](#Recommendations)
 
 
@@ -29,15 +29,6 @@ British Airways needs to better understand its customers in order to improve ope
 
 This project involves web scraping customer reviews from the [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways/page/1/), followed by cleaning and processing the data. The cleaned data will be loaded into an SQL database for efficient storage and querying. Finally, a Tableau dashboard will be created to visualize key insights and trends from the reviews.
 
-## Data Overview
-
-The dataset used for this project is based on real passenger reviews of British Airways flights, collected over a period from 2011 to 2025. The data includes reviews from various passengers across different routes, with detailed feedback on various aspects of their travel experience.
-
-##### Collected data: date published, aircraft, type of traveller, seat type, route, date flown, route, review text, ranking (seat comfort, cabin staff, food & bevarages, ground service, value for money), recommended (yes/no), verification status
-
-##### Derived data: departure, destination, layover, sentiment score, sentiment, keywords, word cloud:
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/54841a52-1d7d-42f4-88a0-caa1e9a1e27a" />
-
 ## Data Acquisition & Preparation
 
 * Web Scraping - use BeautifulSoup (BS4) to scrape customer reviews from Skytrax
@@ -50,6 +41,15 @@ The dataset used for this project is based on real passenger reviews of British 
   - Matplotlib: Plot sentiment trends and word frequencies.
 * Data Storage - load cleaned data into an SQL database using SQLAlchemy.
 * Dashboard Creation - create an interactive Tableau dashboard to visualize sentiment trends and insights.
+
+## Data Overview
+
+The dataset used for this project is based on real passenger reviews of British Airways flights, collected over a period from 2011 to 2025. The data includes reviews from various passengers across different routes, with detailed feedback on various aspects of their travel experience.
+
+##### Collected data: date published, aircraft, type of traveller, seat type, route, date flown, route, review text, ranking (seat comfort, cabin staff, food & bevarages, ground service, value for money), recommended (yes/no), verification status
+
+##### Derived data: departure, destination, layover, sentiment score, sentiment, keywords, word cloud:
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/54841a52-1d7d-42f4-88a0-caa1e9a1e27a" />
 
 ## Recommendations
 
