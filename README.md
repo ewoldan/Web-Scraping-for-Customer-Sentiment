@@ -35,24 +35,24 @@ Derived data: departure, destination, layover, sentiment score, sentiment, keywo
 
 #### Insights & Recommendations
 ✅ Address Top Complaints
-Delays: Improve punctuality through better scheduling and contingency planning.
-Service & Food: Enhance in-flight service quality and food options.
-Comfort & Baggage Handling: Improve seating experience and baggage management efficiency.
+  - Delays: Improve punctuality through better scheduling and contingency planning
+  - Service & Food: Enhance in-flight service quality and food options
+  - Comfort & Baggage Handling: Improve seating experience and baggage management efficiency
 
 ✅ Enhance Offerings
-Economy Class shows flat service score trends — concern for long-term loyalty
-Premium Economy is improving steadily — opportunity for targeted upselling
-Business Travelers are least satisfied — likely due to higher expectations
+  - Economy Class shows flat service score trends — concern for long-term loyalty
+  - Premium Economy is improving steadily — opportunity for targeted upselling
+  - Business Travelers are least satisfied — likely due to higher expectations
 
 ✅ Improve Customer Service & Engagement
-Cabin staff score (3.2/5) indicates improvement opportunities. More training and responsiveness to customer concerns can help.
-Ground service (2.8/5) is also low—optimize airport assistance and check-in processes.
+  - Cabin staff score (3.2/5) indicates improvement opportunities. More training and responsiveness to customer concerns can help
+- Ground service (2.8/5) is also low—optimize airport assistance and check-in processes
 
 ✅ Monitor & Address Seasonal Trends in Negative Sentiment
-High negative sentiment in July & October may indicate operational or service inefficiencies during peak travel times.
+  - High negative sentiment in July & October may indicate operational or service inefficiencies during peak travel times
 
 ✅ Increase Customer Loyalty & Retention Efforts
-Given only 35.44% recommendation rate, focus on loyalty programs, compensation for delays, and better communication with passengers.
+  - Given only 35.44% recommendation rate, focus on loyalty programs, compensation for delays, and better communication with passengers
 
 #### Next Steps
 - enhance project by adding ETL script
