@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/d0bf7d38-bf5a-4ec4-855f-cfc6c0463c46)
 
 ## Description
---
+-
 British Airways (BA) is the UK’s flag carrier airline, with a vast global presence. Every day, thousands of BA flights connect passengers across the world, and the company is responsible for ensuring efficient and seamless operations from scheduling and boarding to landing, all while providing top-class customer service. Understanding customer feedback is critical for maintaining and improving the quality of service.
 
 ## Objective
@@ -63,5 +63,5 @@ The dataset used for this project is based on real passenger reviews of British 
   - Given only 35.44% recommendation rate, focus on loyalty programs, compensation for delays, and better communication with passengers
 
 ### Next Steps
----
+-
 - enhance project by adding ETL script
