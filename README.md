@@ -16,7 +16,7 @@ This project involves web scraping customer reviews from the [Skytrax](https://w
 #### Data Overview
 The dataset used for this project is based on real passenger reviews of British Airways flights, collected over a period from 2011 to 2025. The data includes reviews from various passengers across different routes, with detailed feedback on various aspects of their travel experience.
 
-Collected data: date published, aircraft, type of traveller, seat type, route, date flown, route, review text, ranking (seat comfort, cabin staff, food & bevarages, ground service, value for money), recommended (yes/no), verification status
+##### Collected data: date published, aircraft, type of traveller, seat type, route, date flown, route, review text, ranking (seat comfort, cabin staff, food & bevarages, ground service, value for money), recommended (yes/no), verification status
 
 Derived data: departure, destination, layover, sentiment score, sentiment, keywords, word cloud:
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/54841a52-1d7d-42f4-88a0-caa1e9a1e27a" />
@@ -34,7 +34,25 @@ Derived data: departure, destination, layover, sentiment score, sentiment, keywo
 * Dashboard Creation - create an interactive Tableau dashboard to visualize sentiment trends and insights.
 
 #### Insights & Recommendations
+✅ Address Top Complaints
+Delays: Improve punctuality through better scheduling and contingency planning.
+Service & Food: Enhance in-flight service quality and food options.
+Comfort & Baggage Handling: Improve seating experience and baggage management efficiency.
 
+✅ Enhance Offerings
+Economy Class shows flat service score trends — concern for long-term loyalty
+Premium Economy is improving steadily — opportunity for targeted upselling
+Business Travelers are least satisfied — likely due to higher expectations
+
+✅ Improve Customer Service & Engagement
+Cabin staff score (3.2/5) indicates improvement opportunities. More training and responsiveness to customer concerns can help.
+Ground service (2.8/5) is also low—optimize airport assistance and check-in processes.
+
+✅ Monitor & Address Seasonal Trends in Negative Sentiment
+High negative sentiment in July & October may indicate operational or service inefficiencies during peak travel times.
+
+✅ Increase Customer Loyalty & Retention Efforts
+Given only 35.44% recommendation rate, focus on loyalty programs, compensation for delays, and better communication with passengers.
 
 #### Next Steps
-- enhance project by adding ETL
+- enhance project by adding ETL script
