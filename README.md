@@ -2,6 +2,16 @@
 
 ![image](https://github.com/user-attachments/assets/d0bf7d38-bf5a-4ec4-855f-cfc6c0463c46)
 
+# Table of Contents
+
+[Link Text](#Description)
+[Link Text](#Objective)
+[Link Text](#Business-Problem)
+[Link Text](#Scope)
+[Link Text](#Data-Overview)
+[Link Text](#Analysis)
+[Link Text](#Recommendations)
+
 ## Description
 
 British Airways (BA) is the UK’s flag carrier airline, with a vast global presence. Every day, thousands of BA flights connect passengers across the world, and the company is responsible for ensuring efficient and seamless operations from scheduling and boarding to landing, all while providing top-class customer service. Understanding customer feedback is critical for maintaining and improving the quality of service.
@@ -40,28 +50,28 @@ The dataset used for this project is based on real passenger reviews of British 
 * Data Storage - load cleaned data into an SQL database using SQLAlchemy.
 * Dashboard Creation - create an interactive Tableau dashboard to visualize sentiment trends and insights.
 
-## Insights & Recommendations
+## Recommendations
 
-✅ Address Top Complaints
+### ✅ Address Top Complaints
   - Delays: Improve punctuality through better scheduling and contingency planning
   - Service & Food: Enhance in-flight service quality and food options
   - Comfort & Baggage Handling: Improve seating experience and baggage management efficiency
 
-✅ Enhance Offerings
+### ✅ Enhance Offerings
   - Economy Class shows flat service score trends — concern for long-term loyalty
   - Premium Economy is improving steadily — opportunity for targeted upselling
   - Business Travelers are least satisfied — likely due to higher expectations
 
-✅ Improve Customer Service & Engagement
+### ✅ Improve Customer Service & Engagement
   - Cabin staff score (3.2/5) indicates improvement opportunities. More training and responsiveness to customer concerns can help
 - Ground service (2.8/5) is also low—optimize airport assistance and check-in processes
 
-✅ Monitor & Address Seasonal Trends in Negative Sentiment
+### ✅ Monitor & Address Seasonal Trends in Negative Sentiment
   - High negative sentiment in July & October may indicate operational or service inefficiencies during peak travel times
 
-✅ Increase Customer Loyalty & Retention Efforts
+### ✅ Increase Customer Loyalty & Retention Efforts
   - Given only 35.44% recommendation rate, focus on loyalty programs, compensation for delays, and better communication with passengers
 
-### Next Steps
+## Next Steps
 
 - enhance project by adding ETL script
