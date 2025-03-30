@@ -24,7 +24,7 @@ The dataset used for this project is based on real passenger reviews of British 
 
 ##### Collected data: date published, aircraft, type of traveller, seat type, route, date flown, route, review text, ranking (seat comfort, cabin staff, food & bevarages, ground service, value for money), recommended (yes/no), verification status
 
-#### Derived data: departure, destination, layover, sentiment score, sentiment, keywords, word cloud:
+##### Derived data: departure, destination, layover, sentiment score, sentiment, keywords, word cloud:
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/54841a52-1d7d-42f4-88a0-caa1e9a1e27a" />
 
 ## Analysis
