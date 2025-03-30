@@ -4,13 +4,13 @@
 
 # Table of Contents
 
-[Link Text](#Description)
-[Link Text](#Objective)
-[Link Text](#Business-Problem)
-[Link Text](#Scope)
-[Link Text](#Data-Overview)
-[Link Text](#Analysis)
-[Link Text](#Recommendations)
+Description[Link Text](#Description)
+Objective[Link Text](#Objective)
+Business Problem[Link Text](#Business-Problem)
+Scope[Link Text](#Scope)
+Data Overview[Link Text](#Data-Overview)
+Analysis[Link Text](#Analysis)
+Recommendations[Link Text](#Recommendations)
 
 ## Description
 
