@@ -10,7 +10,7 @@
 [Scope](#Scope)\
 [Data Overview](#Data-Overview)\
 [Analysis](#Analysis)\
-[Recommendations](#Recommendations)\
+[Recommendations](#Recommendations)
 
 
 ## Description
