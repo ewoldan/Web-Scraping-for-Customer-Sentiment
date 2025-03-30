@@ -4,8 +4,8 @@
 
 # Table of Contents
 
-[Description](#Description) 
-[Objective](#Objective) 
+[Description](#Description)\
+[Objective](#Objective)<br/>
 [Business Problem](#Business-Problem) 
 [Scope](#Scope) 
 [Data Overview](#Data-Overview) 
