@@ -5,12 +5,19 @@
 # Table of Contents
 
 [Description](#Description)
+
 [Objective](#Objective)
+
 [Business Problem](#Business-Problem)
+
 [Scope](#Scope)
+
 [Data Overview](#Data-Overview)
+
 [Analysis](#Analysis)
+
 [Recommendations](#Recommendations)
+
 
 ## Description
 
