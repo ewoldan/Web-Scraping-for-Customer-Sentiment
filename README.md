@@ -78,7 +78,7 @@ The dataset used for this project is based on real passenger reviews of British 
 
 ![image](https://github.com/user-attachments/assets/db4dba13-9557-4bbe-9956-176fe0ebef7a)
 
-[🔗 Tableau Workbook:](https://public.tableau.com/app/profile/emilia.woldan6280/viz/CustomerExperienceDashboardforBritishAirlines/BASummary)
+[🔗 Tableau Workbook](https://public.tableau.com/app/profile/emilia.woldan6280/viz/CustomerExperienceDashboardforBritishAirlines/BASummary)
 
 ## Next Steps
 
