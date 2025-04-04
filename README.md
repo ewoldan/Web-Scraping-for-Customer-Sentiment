@@ -11,6 +11,7 @@
 [Data Acquisition & Preparation](#Data-Acquisition-&-Preparation)\
 [Data Overview](#Data-Overview)\
 [Recommendations](#Recommendations)
+[Tableau Dashboard](#Tableau-Dashboard)
 
 
 ## Description
@@ -72,6 +73,10 @@ The dataset used for this project is based on real passenger reviews of British 
 
 ### ✅ Increase Customer Loyalty & Retention Efforts
   - Given only 35.44% recommendation rate, focus on loyalty programs, compensation for delays, and better communication with passengers
+
+## Tableau Dashboard
+
+https://public.tableau.com/app/profile/emilia.woldan6280/viz/CustomerExperienceDashboardforBritishAirlines/BASummary
 
 ## Next Steps
 
